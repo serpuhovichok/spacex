@@ -11,3 +11,5 @@
 docker compose up -d поднимает два контейнера - базу и загрузчик
 
 Подключение к базе: postgres:postgres@postgres:5432/spacex
+
+Схема (under construction): https://drive.google.com/file/d/13C2BHIYI9ZdHBN1al48keS6O7VwODM_9/view?usp=sharing 
